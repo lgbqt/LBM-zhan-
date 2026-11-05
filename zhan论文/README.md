@@ -1,1 +1,2 @@
 实现论文che的diagonal和Zelasak disk
+mdf实现square-droplet(中间还用了gpu版本加速)
